@@ -1,6 +1,11 @@
 {
   "users": [
     {
+      "id": 1,
+      "namn": "Kjell",
+      "bild": "kjell.png"
+    },
+    {
       "id": 63833,
       "namn": "Arwid",
       "bild": "arwid.jfif"
